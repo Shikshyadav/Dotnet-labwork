@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiksha\\OneDrive\\Desktop\\dotnet-lab\\lab 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{973E1B5F-6C3A-45F6-B3D4-94D864321157}|lab 3.csproj|c:\\users\\shiksha\\onedrive\\desktop\\dotnet-lab\\lab 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973E1B5F-6C3A-45F6-B3D4-94D864321157}|lab 3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973E1B5F-6C3A-45F6-B3D4-94D864321157}|lab 3.csproj|c:\\users\\shiksha\\onedrive\\desktop\\dotnet-lab\\lab 3\\overloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973E1B5F-6C3A-45F6-B3D4-94D864321157}|lab 3.csproj|solutionrelative:overloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973E1B5F-6C3A-45F6-B3D4-94D864321157}|lab 3.csproj|c:\\users\\shiksha\\onedrive\\desktop\\dotnet-lab\\lab 3\\sample\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973E1B5F-6C3A-45F6-B3D4-94D864321157}|lab 3.csproj|solutionrelative:sample\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973E1B5F-6C3A-45F6-B3D4-94D864321157}|lab 3.csproj|c:\\users\\shiksha\\onedrive\\desktop\\dotnet-lab\\lab 3\\lab 3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{973E1B5F-6C3A-45F6-B3D4-94D864321157}|lab 3.csproj|solutionrelative:lab 3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sample.cs",
+              "DocumentMoniker": "C:\\Users\\shiksha\\OneDrive\\Desktop\\dotnet-lab\\lab 3\\sample\\sample.cs",
+              "RelativeDocumentMoniker": "sample\\sample.cs",
+              "ToolTip": "C:\\Users\\shiksha\\OneDrive\\Desktop\\dotnet-lab\\lab 3\\sample\\sample.cs",
+              "RelativeToolTip": "sample\\sample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:04:07.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lab 3",
+              "DocumentMoniker": "C:\\Users\\shiksha\\OneDrive\\Desktop\\dotnet-lab\\lab 3\\lab 3.csproj",
+              "RelativeDocumentMoniker": "lab 3.csproj",
+              "ToolTip": "C:\\Users\\shiksha\\OneDrive\\Desktop\\dotnet-lab\\lab 3\\lab 3.csproj",
+              "RelativeToolTip": "lab 3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T03:03:40.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shiksha\\OneDrive\\Desktop\\dotnet-lab\\lab 3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shiksha\\OneDrive\\Desktop\\dotnet-lab\\lab 3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:48:15.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Overloading.cs",
+              "DocumentMoniker": "C:\\Users\\shiksha\\OneDrive\\Desktop\\dotnet-lab\\lab 3\\Overloading.cs",
+              "RelativeDocumentMoniker": "Overloading.cs",
+              "ToolTip": "C:\\Users\\shiksha\\OneDrive\\Desktop\\dotnet-lab\\lab 3\\Overloading.cs",
+              "RelativeToolTip": "Overloading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:49:23.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
